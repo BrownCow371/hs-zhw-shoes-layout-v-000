@@ -35,5 +35,5 @@
 }
 
 .col_1_3 {
-
+  column-count: 3;
 }
