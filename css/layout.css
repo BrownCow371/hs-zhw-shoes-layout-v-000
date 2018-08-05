@@ -30,13 +30,13 @@
 
 .col_left2_3 {
   float: left;
-  width: 64%;
+  width: 65%;
   height: 600px;
 }
 
 .col_right1_3 {
   float: right;
-  width: 32%;
+  width: 33%;
   height: 600px;
   /*overflow: scroll;*/
 }
