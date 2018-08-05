@@ -41,4 +41,5 @@
 .col_1_3 {
   float: left;
   width: 30%
+  margin: 1em auto; 
 }
