@@ -37,6 +37,8 @@
 .col_right1_3 {
   float: right;
   width: 32%
+  height: 550px;
+  overflow: auto;
 }
 
 .col_1_3 {
